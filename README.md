@@ -1,7 +1,7 @@
 # Cardiovascular-Risk-Prediction
 ## Project-Type :  Classification
 ## Contribution :  Indivisual
-https://img.freepik.com/free-vector/human-heart-with-two-doctor-cartoon-character_1308-54848.jpg?t=st=1688004198~exp=1688004798~hmac=59028c3b0fdcbf1d33eea1165c3727e386a3d8507eef658d08f7b34602c4ed1b
+
 
 # Problem Statement :
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patients' information. It includes over 4,000 records and 15 attributes. Each attribute is a potential risk factor. There are both demographic, behavioral, and medical risk factors.
